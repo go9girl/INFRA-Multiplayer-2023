@@ -1,7 +1,7 @@
 how to install
 later i will add a .bat file to do this automaticly
 
-Download the infra.zip file
+Download the infra.zip file from 0.0 release
 
 open steam and goto INFRA>SETTINGS>MANAGE>BROWSE LOCAL FILES
 
