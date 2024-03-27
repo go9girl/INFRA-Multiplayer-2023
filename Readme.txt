@@ -1,25 +1,16 @@
 how to install
 later i will add a .bat file to do this automaticly
 
-take all the files inside of this .zip file and extract them into another folder
+Download the infra.zip file
 
 open steam and goto INFRA>SETTINGS>MANAGE>BROWSE LOCAL FILES
 
-next copy the following folders to the following places, if it asks to replace any files click NO or it will break infra
+next
+extract the infra.zip
 
-Drag hL2mp into the main folder in other words common/infra just place it there
+copy the contents into common/infra
 
-next drag the Bin folder into the bin folder, do NOT replace any files
-
-drag the platform folder into the same directory as the hL2 folder common/infra
-do the same for the sdktools folder 
-
-open the source test folder
-
-copy the stuff in bin into the infra bin
-
-open the infra folder and do the same for the cfg files
-and do the same for the recource folder, find it and place it in recource
+Merge but DO NOT REPLACE skip instead
 
 lauch infra
 
